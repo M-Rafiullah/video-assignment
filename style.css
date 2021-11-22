@@ -1,0 +1,35 @@
+#bulb {
+    background-image: none;
+}
+#body{
+    text-align: center;
+}
+.mybb{
+    background-color: black;
+}
+.mybb img{
+   margin-left: 20%;
+   
+}
+.btn1 {
+   
+   margin-left: 105px;
+   margin-right: 5px;
+}
+.btn1:hover{
+    cursor: pointer;
+    background-color: black;
+    color: #ffffff;
+}
+#bulb{
+    margin-left: 40%;
+    border-bottom: black;
+}
+#bulb:hover{
+    
+    cursor: pointer;
+}
+#humm #boom{
+    margin-left: 40%
+    ;
+}
